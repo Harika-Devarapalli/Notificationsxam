@@ -31,13 +31,39 @@
         android:id="@+id/channel1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Channel 1"
+        android:text="Send Normal Notification"
         />
 
     <Button
         android:id="@+id/channel2"
+        android:textSize="12dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Channel 2"
+        android:text="Send High Priority Notification"
         />
+
+    <Button
+        android:id="@+id/channel3"
+        android:textSize="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Image Notification"
+        />
+
+    <Button
+        android:id="@+id/channel4"
+        android:textSize="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Media Notification"
+        />
+
+    <Button
+        android:id="@+id/channel5"
+        android:textSize="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Action Notification"
+        />
+
 </LinearLayout>
