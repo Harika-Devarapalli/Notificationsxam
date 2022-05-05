@@ -4,6 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android Projects/Notifications/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/drcha/Downloads/Notifications/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1435" />
+        <entry key="..\:/Users/drcha/Downloads/Notifications/app/src/main/res/drawable/ic_airport.xml" value="0.1435" />
+        <entry key="..\:/Users/drcha/Downloads/Notifications/app/src/main/res/drawable/ic_dislike.xml" value="0.1435" />
+        <entry key="..\:/Users/drcha/Downloads/Notifications/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1435" />
+        <entry key="..\:/Users/drcha/Downloads/Notifications/app/src/main/res/drawable/ic_like.xml" value="0.1435" />
+        <entry key="..\:/Users/drcha/Downloads/Notifications/app/src/main/res/drawable/ic_next.xml" value="0.1435" />
+        <entry key="..\:/Users/drcha/Downloads/Notifications/app/src/main/res/drawable/ic_previous.xml" value="0.1435" />
+        <entry key="..\:/Users/drcha/Downloads/Notifications/app/src/main/res/drawable/ic_tractor.xml" value="0.1435" />
+        <entry key="..\:/Users/drcha/Downloads/Notifications/app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>
   </component>

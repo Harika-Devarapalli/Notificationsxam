@@ -51,9 +51,11 @@ public class MainActivity extends AppCompatActivity {
         c4 = findViewById(R.id.channel4);
         c5 = findViewById(R.id.channel5);
         messages = new ArrayList<>();
-        messages.add(new Message("Hi","Siddhu"));
-        messages.add(new Message("Hello",null));
-        messages.add(new Message("Are u busy rn?","Siddhu"));
+        messages.add(new Message("Hi","Harika"));
+        messages.add(new Message("mc",null));
+        messages.add(new Message("how are you?","Harika"));
+        messages.add(new Message("How is ur health","Harika"));
+
 
 
         c1.setOnClickListener(new View.OnClickListener() {
